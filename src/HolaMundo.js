@@ -5,6 +5,7 @@ const HolaMundo = () => {
     <>
     <h2>Hola Mundo de parte de Ronny</h2>
     <h1>Hola Mundo de parte de Angel</h1>
+    <h1>Hola mundo este es nuestro trabajo</h1>
     </>
     
   )
